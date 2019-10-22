@@ -1,0 +1,10 @@
+1. Read in all coder/tester names
+2. Coder/tester (C/T) can’t be the same person
+3. Must be able to handle a max of 16 coder/testers
+4. Must handle even/odd number of C/T
+5. Can sort bt tester
+6. Can sort by coder
+7. Prove psuedo-randomness
+8. Validated user input (list sort type)
+9. Program can run more than 1x
+10.  No tester can be assigned to more then 1 coder

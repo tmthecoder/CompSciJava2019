@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="674cbb94-2c3f-4ef8-8372-8c821aa2bb0c" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="241" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="JUnit5 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1QbRR2LBtFVzGi3lSWI4AAqjzL7" />
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="create.test.in.the.same.root" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="MTCustomThemeConfigurable" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.tejasmehta" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.tejasmehta.Main" />
+      <module name="RandomPartnerGenerator" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RandomGeneratorTest.pair" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="RandomPartnerGenerator" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.tejasmehta.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.tejasmehta" />
+      <option name="MAIN_CLASS_NAME" value="com.tejasmehta.RandomGeneratorTest" />
+      <option name="METHOD_NAME" value="pair" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RandomGeneratorTest.sort" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="RandomPartnerGenerator" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.tejasmehta.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.tejasmehta" />
+      <option name="MAIN_CLASS_NAME" value="com.tejasmehta.RandomGeneratorTest" />
+      <option name="METHOD_NAME" value="sort" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="JUnit.RandomGeneratorTest.sort" />
+        <item itemvalue="JUnit.RandomGeneratorTest.pair" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="674cbb94-2c3f-4ef8-8372-8c821aa2bb0c" name="Default Changelist" comment="" />
+      <created>1568037297179</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1568037297179</updated>
+      <workItem from="1568037300867" duration="16000" />
+      <workItem from="1568037324279" duration="10000" />
+      <workItem from="1568037337648" duration="13000" />
+      <workItem from="1568037379395" duration="3084000" />
+      <workItem from="1568076362421" duration="17000" />
+      <workItem from="1568076397766" duration="274000" />
+      <workItem from="1568076693401" duration="528000" />
+      <workItem from="1568077239464" duration="193000" />
+      <workItem from="1568077450858" duration="31000" />
+      <workItem from="1568077495746" duration="8000" />
+      <workItem from="1568077559245" duration="36000" />
+      <workItem from="1568077611373" duration="173000" />
+      <workItem from="1568077789092" duration="403000" />
+      <workItem from="1568078219967" duration="3000" />
+      <workItem from="1568082587567" duration="297000" />
+      <workItem from="1568118610814" duration="15000" />
+      <workItem from="1568122154220" duration="107000" />
+      <workItem from="1568208429252" duration="4446000" />
+      <workItem from="1568213001375" duration="38000" />
+      <workItem from="1568294857403" duration="44000" />
+      <workItem from="1568382196779" duration="560000" />
+      <workItem from="1568384678379" duration="901000" />
+      <workItem from="1568727355888" duration="598000" />
+      <workItem from="1568728269676" duration="45000" />
+      <workItem from="1568728765180" duration="684000" />
+      <workItem from="1568729744008" duration="162000" />
+      <workItem from="1570804409439" duration="14000" />
+      <workItem from="1570804492393" duration="113000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/RandomPartnerGenerator$RandomGeneratorTest_sort.ic" NAME="RandomGeneratorTest.sort Coverage Results" MODIFIED="1568212246506" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.tejasmehta.*</FILTER>
+    </SUITE>
+  </component>
+</project>
