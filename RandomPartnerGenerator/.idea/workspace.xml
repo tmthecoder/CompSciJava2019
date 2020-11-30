@@ -1,8 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="674cbb94-2c3f-4ef8-8372-8c821aa2bb0c" name="Default Changelist" comment="" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <list default="true" id="674cbb94-2c3f-4ef8-8372-8c821aa2bb0c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../NumberConversionLab/src/com/tejasmehta/Converter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NumberConversionLab/src/output.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/RandomPartnerGenerator/META-INF/RandomPartnerGenerator.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/RandomPartnerGenerator/com/tejasmehta/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/RandomPartnerGenerator/com/tejasmehta/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/tejasmehta/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/tejasmehta/Main.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -22,10 +28,19 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="1" />
   </component>
   <component name="ProjectId" id="1QbRR2LBtFVzGi3lSWI4AAqjzL7" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="flattenPackages" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
     <property name="Downloaded.Files.Path.Enabled" value="false" />
     <property name="Repository.Attach.Annotations" value="false" />
@@ -36,6 +51,7 @@
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
     <property name="create.test.in.the.same.root" value="true" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -54,25 +70,24 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="RunManager" selected="Application.Main">
+  <component name="RunManager" selected="Java Scratch.Scratch">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="com.tejasmehta.Main" />
       <module name="RandomPartnerGenerator" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
       <RunnerSettings RunnerId="Run" />
       <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -109,14 +124,23 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Scratch" type="Java Scratch" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Scratch" />
+      <option name="SCRATCH_FILE_URL" value="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Java Scratch.Scratch" />
         <item itemvalue="Application.Main" />
         <item itemvalue="JUnit.RandomGeneratorTest.sort" />
         <item itemvalue="JUnit.RandomGeneratorTest.pair" />
       </list>
     </recent_temporary>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -155,11 +179,37 @@
       <workItem from="1568729744008" duration="162000" />
       <workItem from="1570804409439" duration="14000" />
       <workItem from="1570804492393" duration="113000" />
+      <workItem from="1601868024567" duration="212000" />
+      <workItem from="1604066940793" duration="1484000" />
+      <workItem from="1604347804522" duration="9000" />
+      <workItem from="1605727866928" duration="1026000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="960" height="312" key="GridCell.Tab.0.bottom" timestamp="1605728940240">
+      <screen x="1920" y="-704" width="1920" height="1055" />
+    </state>
+    <state width="1920" height="312" key="GridCell.Tab.0.bottom/1920.-704.1920.1055/0.25.1920.1095@0.25.1920.1095" timestamp="1605728882769" />
+    <state width="960" height="312" key="GridCell.Tab.0.bottom/1920.-704.1920.1055/0.25.1920.1095@1920.-704.1920.1055" timestamp="1605728940240" />
+    <state width="960" height="312" key="GridCell.Tab.0.center" timestamp="1605728940239">
+      <screen x="1920" y="-704" width="1920" height="1055" />
+    </state>
+    <state width="1920" height="312" key="GridCell.Tab.0.center/1920.-704.1920.1055/0.25.1920.1095@0.25.1920.1095" timestamp="1605728882768" />
+    <state width="960" height="312" key="GridCell.Tab.0.center/1920.-704.1920.1055/0.25.1920.1095@1920.-704.1920.1055" timestamp="1605728940239" />
+    <state width="960" height="312" key="GridCell.Tab.0.left" timestamp="1605728940238">
+      <screen x="1920" y="-704" width="1920" height="1055" />
+    </state>
+    <state width="1920" height="312" key="GridCell.Tab.0.left/1920.-704.1920.1055/0.25.1920.1095@0.25.1920.1095" timestamp="1605728882767" />
+    <state width="960" height="312" key="GridCell.Tab.0.left/1920.-704.1920.1055/0.25.1920.1095@1920.-704.1920.1055" timestamp="1605728940238" />
+    <state width="960" height="312" key="GridCell.Tab.0.right" timestamp="1605728940239">
+      <screen x="1920" y="-704" width="1920" height="1055" />
+    </state>
+    <state width="1920" height="312" key="GridCell.Tab.0.right/1920.-704.1920.1055/0.25.1920.1095@0.25.1920.1095" timestamp="1605728882769" />
+    <state width="960" height="312" key="GridCell.Tab.0.right/1920.-704.1920.1055/0.25.1920.1095@1920.-704.1920.1055" timestamp="1605728940239" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/RandomPartnerGenerator$RandomGeneratorTest_sort.ic" NAME="RandomGeneratorTest.sort Coverage Results" MODIFIED="1568212246506" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">

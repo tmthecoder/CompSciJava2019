@@ -1,0 +1,134 @@
+Enter the number of the starting base(or any other value to quit):
+1. Binary
+2. Decimal
+3. Hex
+1
+Enter the number to convert
+1011
+Enter the number of the base to convert to:
+1. Decimal
+2. Hex
+3. BCD
+3
+entered number: 1011
+converted number: 0001 0001.0000
+Enter the number of the starting base(or any other value to quit):
+1. Binary
+2. Decimal
+3. Hex
+1
+Enter the number to convert
+1011
+Enter the number of the base to convert to:
+1. Decimal
+2. Hex
+3. BCD
+2
+entered number: 1011
+converted number: B
+Enter the number of the starting base(or any other value to quit):
+1. Binary
+2. Decimal
+3. Hex
+1
+Enter the number to convert
+1011
+Enter the number of the base to convert to:
+1. Decimal
+2. Hex
+3. BCD
+1
+entered number: 1011
+converted number: 11.0
+Enter the number of the starting base(or any other value to quit):
+1. Binary
+2. Decimal
+3. Hex
+2
+Enter the number to convert
+10
+Enter the number of the base to convert to:
+1. Binary
+2. Hex
+3. BCD
+1
+entered number: 10
+converted number: 1010
+Enter the number of the starting base(or any other value to quit):
+1. Binary
+2. Decimal
+3. Hex
+2
+Enter the number to convert
+10
+Enter the number of the base to convert to:
+1. Binary
+2. Hex
+3. BCD
+2
+entered number: 10
+converted number: A
+Enter the number of the starting base(or any other value to quit):
+1. Binary
+2. Decimal
+3. Hex
+2
+Enter the number to convert
+10
+Enter the number of the base to convert to:
+1. Binary
+2. Hex
+3. BCD
+3
+entered number: 10
+converted number: 0001 0000
+Enter the number of the starting base(or any other value to quit):
+1. Binary
+2. Decimal
+3. Hex
+3
+Enter the number to convert
+a1
+Enter the number of the base to convert to:
+1. Binary
+2. Decimal
+3. BCD
+1
+entered number: a1
+converted number: 10100001
+Enter the number of the starting base(or any other value to quit):
+1. Binary
+2. Decimal
+3. Hex
+3
+Enter the number to convert
+a1
+Enter the number of the base to convert to:
+1. Binary
+2. Decimal
+3. BCD
+2
+entered number: a1
+converted number: 161.0
+Enter the number of the starting base(or any other value to quit):
+1. Binary
+2. Decimal
+3. Hex
+3
+Enter the number to convert
+a1
+Enter the number of the base to convert to:
+1. Binary
+2. Decimal
+3. BCD
+3
+entered number: a1
+converted number: 0001 0110 0001.0000
+Enter the number of the starting base(or any other value to quit):
+1. Binary
+2. Decimal
+3. Hex
+exit
+Exiting...
+
+Process finished with exit code 0
